@@ -1,6 +1,8 @@
 # Breathe
 an iOS app for Breathing exercises
 
+Distributed under a Mozilla Public License Version 2.0 - please see License.md file for more details. 
+
 This will be a simple app to listen to 2 minute audio files guiding users through various levels of breathing exercises. 
 
 Users will have a choice of programs starting with an intro and progressing from there. 
